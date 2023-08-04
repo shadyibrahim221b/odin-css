@@ -1,0 +1,123 @@
+.container{
+    width: 2000px;
+    /* outline: 4px solid red; */
+    height: 500px;
+    background-color: #1F2937;
+}
+.container img{
+    width: 48px;
+    height: 48px;
+    margin-left: 100px;
+    margin-top: 20px;
+    /* outline: 4px solid red; */
+    color: white;
+    background-color: white;
+}
+.links{
+    display: inline;
+    display: flex;
+    margin-left: 1700px;
+    margin-top: -45px;
+    gap: 20px;
+}
+.links a{
+    color: white;
+    text-decoration: none;
+}
+.upperpage{
+    width: 400px;
+    margin: 200px;
+    margin-left: 500px;
+    margin-bottom: 500px;
+    /* outline: 4px solid red; */
+    color: white;
+    font-weight: lighter;
+    font-family: 'Roboto' Arial, Helvetica, sans-serif;
+    display: inline-block;
+}
+.upperpage h1{
+    width: 300px;
+}
+.upperpage img{
+    display: inline-block;
+    width: 400px;
+    height: 300px;
+    margin-left: 500px;
+    margin-top: -600px;
+    margin-bottom: -25px;
+}
+.upperpage h1,p{
+    margin-top: -20px;
+}
+.upperpage button{
+    background-color: #4d94ff;
+    color: white;
+    width: 150px;
+    height: 30px;
+    text-align: center;
+    font-size: 20px;
+    border-radius: 20px;
+}
+.container2 p{
+    text-align: center;
+    margin-top: 40px;
+    font-size: 30px;
+}
+.Robots{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 60px;
+}
+.Robots img{
+    border: 4px solid red;
+    border-radius: 20px;
+    margin-top: 10px;
+    width: 200px;
+    height: 200px;
+}
+.paragraph{
+    display: flex;
+    width: 2000px;
+    height: 3%;
+    /* outline: 1px solid red; */
+}
+.paragraph p{
+    flex: 1;
+    padding: 50px;
+    padding-bottom: 40px;
+    background-color:#e6e6e6;
+    margin-left: 0px;
+    font-size: 40px;
+    margin-top: 20px;
+    text-align: center;
+}
+.downpart{
+    margin-bottom: 20px;
+    margin-left: 250px;
+    margin-top: 0px;
+    width: 1200px;
+    height:15px;
+    padding: 50px;
+    padding-top: 60px;
+    padding-left: 100px;
+    background-color: #4d4dff;
+    /* outline: 1px solid red; */
+    border-radius: 10px;
+}
+.downpart p{
+    font-size: 20px;
+    color: white;
+}
+.button1{
+    margin-top: -50px;
+}
+.button1 button {
+    margin-left: 900px;
+    width: 150px;
+    height: 40px;
+    background-color: #4d4dff;
+    color: white;
+    font-size: 20px;
+    border-radius: 20px;
+}
